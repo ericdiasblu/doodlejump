@@ -9,7 +9,7 @@ let score = 0;
 // Player settings
 let player = {
     x: 200,
-    y: 500,
+    y: 400.1,
     width: 30,
     height: 30,
     dx: 0,
